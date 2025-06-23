@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main-rebuilt
+      - main-rebuilt-v2
 
 jobs:
   deploy:
